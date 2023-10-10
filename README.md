@@ -17,7 +17,7 @@ My research interest lies in (but not confined to) the intersection of Computer 
   - Languages: Hindi, English, Bengali, French(Beginner)
     
 ## Projects
-Please See My Github Repository 
+Please Visit My Github Repository.
 
 ## Publication
 
