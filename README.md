@@ -6,25 +6,25 @@ My research interest lies in (but not confined to) the intersection of Computer 
 
 
 ## Skills
-  -Coding Languages : C/C++, Python, SQL, R
-  -Tools and Frameworks: PyTorch, OpenCV, Android Studio, Matlab
-  -Language(s): Hindi, English, Bengali, French(Beginner)
-  -Misc: Research, Latex Typesetting and Publishing
-
-
+  - Coding Language(s): C/C++, Python, SQL, R
+  - Tools and Frameworks: PyTorch, OpenCV, Android Studio, Matlab
+  - Misc: Research, Latex Typesetting and Publishing 
+  - Languages: Hindi, English, Bengali, French(Beginner)
+    
 
 
 ## Publication
 
 **Journals Papers**
-  -**[2023] A brief study of generative adversarial networks and their applications in image synthesis** [DOI](https://doi.org/10.1007/s11042-023-16175-2)
-  -**Coming Soon**
+
+  - **[2023] A brief study of generative adversarial networks and their applications in image synthesis** [DOI](https://doi.org/10.1007/s11042-023-16175-2)
+  - **Coming Soon**
+  
 
 
 **Conference Papers**
-Coming Soon
-  
-  
+  - **Coming Soon**
+
   
 
 
