@@ -4,7 +4,8 @@ Hey There, I'm Harshad. Currently I'm working as a Research Intern at AIISC unde
 ## Research Interest(s)
 My research interest lies in (but not confined to) the intersection of Computer Vision, Computer Graphics, Generative Models, and Reinforcement Learning. I love working on the creative aspect of the Generative AI, Vision Language Model and Multimodal Deep Learning.
 
-## Experince
+
+
 
 
 
