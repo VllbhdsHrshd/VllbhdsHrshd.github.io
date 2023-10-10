@@ -4,14 +4,19 @@ Hey There, I'm Harshad. Currently I'm working as a Research Intern at AIISC unde
 ## Research Interest(s)
 My research interest lies in (but not confined to) the intersection of Computer Vision, Computer Graphics, Generative Models, and Reinforcement Learning. I love working on the creative aspect of the Generative AI, Vision Language Model and Multimodal Deep Learning.
 
+## Experince
+
+
+
 
 ## Skills
   - Coding Language(s): C/C++, Python, SQL, R
   - Tools and Frameworks: PyTorch, OpenCV, Android Studio, Matlab
-  - Misc: Research, Latex Typesetting and Publishing 
+  - Miscellanea: Research, Latex Typesetting and Publishing 
   - Languages: Hindi, English, Bengali, French(Beginner)
     
-
+## Projects
+Please See My Github Repository 
 
 ## Publication
 
