@@ -25,6 +25,8 @@ Please Visit My Github Repository.
 
   - **[2023] A brief study of generative adversarial networks and their applications in image synthesis** [DOI](https://doi.org/10.1007/s11042-023-16175-2)
   - **Coming Soon**
+
+
   
 
 
@@ -32,6 +34,7 @@ Please Visit My Github Repository.
   - **Coming Soon**
 
   
-
+**Arxiv Preprint**
+  - **[2024] Visual Hallucinaion Definition Quantification, and Prescriptive Remediations**[Link](https://arxiv.org/pdf/2403.17306)
 
 
